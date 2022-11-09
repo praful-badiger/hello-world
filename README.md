@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+To learn how commit works
